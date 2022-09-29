@@ -1,0 +1,14 @@
+body{
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+    max-width: fit-content;
+    height: fit-content;
+    transition: all ease ls;
+    margin:auto;
+    position: absolute;
+    top:50%;
+    left:50%
+  }
+.box3{
+    text-align: center;
+}
